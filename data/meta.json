@@ -1,0 +1,12 @@
+{
+  "tickers": [
+    "QQQ"
+  ],
+  "published_et": "00:41:32",
+  "published_epoch": 1794634892.4688938,
+  "published_iso": "2026-11-14T00:41:32.468841-05:00",
+  "session": "2026-11-13",
+  "mode": "off",
+  "pages_url": "https://ramonpeng0525.github.io/qqq-dashboard/",
+  "note": "交易时段约每分钟更新；非交易时段最多每 30 分钟。其他代码需要先加上并由系统发布。"
+}
